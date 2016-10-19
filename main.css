@@ -5,7 +5,11 @@ body {
 	text-align: center;
 	width: 750px;
 }
-
+li {
+	text-decoration: none;
+}
+		
+	
 h1 {
 	font-size: 32px;
 }

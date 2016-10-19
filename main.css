@@ -1,7 +1,8 @@
 body {
 	font-family: Helvetica, sans-serif;
 	height: 100%;
-	margin: 100px 100px 250px 250px;
+	margin: 100px 100px 100px 100px;
+	padding: 0 0 0 0;
 	text-align: left;
 	width: 750px;
 }
